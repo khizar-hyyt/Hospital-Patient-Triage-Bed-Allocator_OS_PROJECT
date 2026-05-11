@@ -1,0 +1,21 @@
+[2026-05-08 16:51:49] startup              | Free: 32 | Largest:  3 | ExtFrag: 90.6%
+[2026-05-08 16:52:29] PAGING  Patient #1 (Ali Raza) | Units:3 | Pages:2 | IntFrag:1
+[2026-05-08 16:52:29] admission            | Free: 29 | Largest:  3 | ExtFrag: 89.7%
+[2026-05-08 16:52:43] discharge            | Free: 32 | Largest: 12 | ExtFrag: 62.5%
+[2026-05-08 16:52:43] PAGING  Patient #2 (Sara Khan) | Units:2 | Pages:1 | IntFrag:0
+[2026-05-08 16:52:43] admission            | Free: 24 | Largest: 12 | ExtFrag: 50.0%
+[2026-05-08 16:52:53] discharge            | Free: 32 | Largest: 12 | ExtFrag: 62.5%
+[2026-05-08 16:52:53] PAGING  Patient #3 (Zain Ahmed) | Units:1 | Pages:1 | IntFrag:1
+[2026-05-08 16:52:53] admission            | Free: 20 | Largest: 12 | ExtFrag: 40.0%
+[2026-05-08 16:53:04] discharge            | Free: 32 | Largest: 12 | ExtFrag: 62.5%
+[2026-05-08 16:53:04] PAGING  Patient #4 (Minor Patient) | Units:1 | Pages:1 | IntFrag:1
+[2026-05-08 16:53:04] admission            | Free: 20 | Largest: 12 | ExtFrag: 40.0%
+[2026-05-08 16:53:05] PAGING  Patient #5 (Critical Patient) | Units:3 | Pages:2 | IntFrag:1
+[2026-05-08 16:53:05] admission            | Free:  8 | Largest:  8 | ExtFrag: 0.0%
+[2026-05-08 16:53:39] discharge            | Free: 20 | Largest: 12 | ExtFrag: 40.0%
+[2026-05-08 16:53:39] discharge            | Free: 32 | Largest: 12 | ExtFrag: 62.5%
+[2026-05-08 16:53:39] PAGING  Patient #6 (ICU Patient A) | Units:3 | Pages:2 | IntFrag:1
+[2026-05-08 16:53:39] admission            | Free: 20 | Largest: 12 | ExtFrag: 40.0%
+[2026-05-08 16:55:45] discharge            | Free: 32 | Largest: 12 | ExtFrag: 62.5%
+[2026-05-08 16:55:45] PAGING  Patient #7 (ICU Patient B) | Units:3 | Pages:2 | IntFrag:1
+[2026-05-08 16:55:45] admission            | Free: 20 | Largest: 12 | ExtFrag: 40.0%

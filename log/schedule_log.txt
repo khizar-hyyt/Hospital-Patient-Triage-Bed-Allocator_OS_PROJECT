@@ -1,0 +1,28 @@
+=== SCHEDULING SIMULATION REPORT ===
+Total patients: 3
+
+--- Algorithm 1: FCFS (First-Come First-Served) ---
+ID   Name                 Pri   Burst  Waiting  Turnaround
+1    Ali Raza             1     6      0        6         
+2    Sara Khan            3     5      4        9         
+3    Zain Ahmed           5     5      7        12        
+
+FCFS => Avg Waiting: 3.7s | Avg Turnaround: 9.0s
+
+--- Algorithm 2: Priority Scheduling ---
+ID   Name                 Pri   Burst  Waiting  Turnaround
+1    Ali Raza             1     6      0        6         
+2    Sara Khan            3     5      4        9         
+3    Zain Ahmed           5     5      7        12        
+
+Priority => Avg Waiting: 3.7s | Avg Turnaround: 9.0s
+
+--- Algorithm 3: SJF (Shortest Job First) ---
+ID   Name                 Pri   Burst  Waiting  Turnaround
+2    Sara Khan            3     5      0        5         
+3    Zain Ahmed           5     5      3        8         
+1    Ali Raza             1     6      12       18        
+
+SJF => Avg Waiting: 5.0s | Avg Turnaround: 10.3s
+
+=== END OF REPORT ===
